@@ -1,3 +1,7 @@
 body {
     background: blueviolet;
 }
+
+body h1 {
+    color: whitesmoke;
+}
